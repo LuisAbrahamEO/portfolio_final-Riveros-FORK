@@ -2,6 +2,11 @@ body {
   font-family: "Exo", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  min-height: 100vh;
+  background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(125, 129, 137, 0.75)),
+              url('../img/1.jpg') no-repeat center center fixed;
+  background-size: cover;
+  padding-bottom: 0;
 }
 
 h1,
